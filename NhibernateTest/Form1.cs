@@ -50,7 +50,7 @@ namespace NhibernateTest
                 mySession.Save(u);
                 mySession.Transaction.Commit();
                 //mySession.Close();
-                //lblStatus.Text = "İşlem Tamam...";
+                lblStatus.Text = "İşlem Tamam...";
             }
                 
 
