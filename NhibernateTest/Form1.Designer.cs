@@ -73,6 +73,7 @@
             this.txtUserId.Name = "txtUserId";
             this.txtUserId.Size = new System.Drawing.Size(64, 20);
             this.txtUserId.TabIndex = 4;
+            this.txtUserId.Text = "1";
             // 
             // btnSave
             // 
